@@ -1,4 +1,4 @@
 # Project_demo
 This is my first git repo
 <br>
-Author- Nitish Kumar
+Author- Nitish (nik)
